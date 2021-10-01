@@ -1,3 +1,13 @@
+
+/*
+
+Method 2: (Scan from right) Optimized Approach
+Scan all the elements from right to left in an array and keep track of maximum till 
+now. When maximum changes its value, print it.
+Below image is a dry run of the above approach:
+
+*/
+
 package com.company.DSAlgo;
 
 import java.util.ArrayList;

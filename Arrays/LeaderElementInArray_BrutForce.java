@@ -1,3 +1,17 @@
+/*
+Leaders in an array
+Problem Description
+
+Given an integer array A containing N distinct integers, you have to find all the leaders in the array A.
+
+An element is leader if it is strictly greater than all the elements to its right side.
+
+NOTE:The rightmost element is always a leader.
+
+
+*/
+
+
 package com.company.DSAlgo;
 
 import java.util.ArrayList;
